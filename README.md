@@ -8,9 +8,6 @@ Welcome to the **AI Blog Generator**, an innovative tool powered by the **LLaMA 
 - **Adjustable Length**: Set the desired length of the blog to suit your needs.
 - **AI-Powered Writing**: Uses the state-of-the-art LLaMA 3.1:8B model for generating high-quality and coherent blogs.
 
-## Demo
-![AI Blog Generator Screenshot](sample image.jpg)
-
 
 ## Installation
 Follow these steps to get the application running locally:
@@ -75,8 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any queries or feedback, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: palaksarna4@example.com
 
 ---
 
