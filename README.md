@@ -9,7 +9,7 @@ Welcome to the **AI Blog Generator**, an innovative tool powered by the **LLaMA 
 - **AI-Powered Writing**: Uses the state-of-the-art LLaMA 3.1:8B model for generating high-quality and coherent blogs.
 
 ## Demo
-![AI Blog Generator Screenshot](images/app_screenshot.png)
+![AI Blog Generator Screenshot](sample image.jpg)
 
 
 ## Installation
